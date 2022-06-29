@@ -2,7 +2,7 @@ jwt:
     time: 90231321
     ret: hello-world123444
 posco:
-    name: 3기4444
+    name: 3기4444prd
     count: 2033333
     datasource:
         url: jdbc:mysql://?.?.?.?:3306/test?serverTimezone=UTC&characterEncoding=UTF-8

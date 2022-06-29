@@ -2,7 +2,7 @@ jwt:
     time: 90000
     ret: hello-world123444
 posco:
-    name: 3기4444
+    name: 3기4444dev
     count: 20
     datasource:
         url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&characterEncoding=UTF-8
