@@ -6,6 +6,6 @@ posco:
     count: 2033333
 test:
     datasource:
-        url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&characterEncoding=UTF-8
-        username: root
+        url: jdbc:mysql://?.?.?.?:3306/insta?serverTimezone=UTC&characterEncoding=UTF-8
+        username: rollin
         password: 1234
