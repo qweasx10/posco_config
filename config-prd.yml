@@ -8,3 +8,8 @@ posco:
         url: jdbc:mysql://?.?.?.?:3306/test?serverTimezone=UTC&characterEncoding=UTF-8
         username: rollin
         password: 1234
+test:
+    datasource:
+        url: jdbc:mysql://?.?.?.?:3306/test?serverTimezone=UTC&characterEncoding=UTF-8
+        username: rollin
+        password: 1234
