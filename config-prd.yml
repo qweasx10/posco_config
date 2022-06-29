@@ -4,8 +4,7 @@ jwt:
 posco:
     name: 3기4444
     count: 2033333
-test:
     datasource:
-        url: jdbc:mysql://?.?.?.?:3306/insta?serverTimezone=UTC&characterEncoding=UTF-8
+        url: jdbc:mysql://?.?.?.?:3306/test?serverTimezone=UTC&characterEncoding=UTF-8
         username: rollin
         password: 1234
